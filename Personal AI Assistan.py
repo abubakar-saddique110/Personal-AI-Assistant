@@ -9,8 +9,8 @@ import cv2
 import time
 import re
 
-gemini_api_key = "AIzaSyAwgaEaBP-tCv3qv_UdgcDz5GVemuAaCOs"
-news_api_key = "b69d26ace3524cf5865e682f1c0dc676"
+gemini_api_key = "Use Your Gemni key Here"
+news_api_key = "Use Your News key Here"
 
 genai.configure(api_key=gemini_api_key)
 
